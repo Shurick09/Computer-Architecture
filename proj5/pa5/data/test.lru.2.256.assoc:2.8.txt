@@ -1,0 +1,10 @@
+no-prefetch
+Cache hits: 8356
+Cache misses: 1644
+Memory reads: 1644
+Memory writes: 2861
+with-prefetch
+Cache hits: 8358
+Cache misses: 1642
+Memory reads: 3275
+Memory writes: 2861
